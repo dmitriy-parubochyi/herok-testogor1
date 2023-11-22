@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://jobs-api-06.herokuapp.com/api/v1
+  - url: https://herok-testogor1-9f94d1e80076.herokuapp.com/
     variables: {}
 paths:
   /auth/register:
